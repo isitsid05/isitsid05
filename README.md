@@ -2,6 +2,7 @@
 I'm really interested in app development, design, machine learning and especially coding. I'm currently learning Java, Python, C and C++ and I'm hoping to improve my coding skills!
 
 Currently a technical team member of the ACM chapter in my University.
+
 I would love to meet new people and learn to compete in hackathons.
 
 **skills:**
