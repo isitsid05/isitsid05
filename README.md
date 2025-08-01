@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, my name is Sidharth. I'm a student at VIT majoring in Computer Science.
+I'm really interested in app development, design, machine learning and especially coding. I'm currently learning Java, Python, C and C++ and I'm hoping to improve my coding skills!
+Currently a technical team member of the ACM chapter in my University.
+I would love to meet new people and learn to compete in hackathons.
+
+**skills:**
+Back-end development
+
 
 <!--
 **isitsid05/isitsid05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
